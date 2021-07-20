@@ -1,0 +1,4 @@
+rice
+seaweed
+cucumber
+fish
